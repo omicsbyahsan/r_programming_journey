@@ -10,3 +10,4 @@
 
 # My goal is to learn R and explore its applications in agricultural
 # bioinformatics and crop improvement.s
+print("Learning R, exploring bioinformatics, and growing through research! 🌱")
