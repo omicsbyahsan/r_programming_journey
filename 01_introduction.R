@@ -9,4 +9,4 @@
 # R programming is useful for analyzing and visualizing biological data.
 
 # My goal is to learn R and explore its applications in agricultural
-# bioinformatics and crop improvement.s
+# bioinformatics and crop improvement.
